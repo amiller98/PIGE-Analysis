@@ -1,6 +1,6 @@
 # F-Analysis-App
 A MATLAB app built to streamline the analysis of PIGE .spe data collected by the Peaslee Group at UND
-* It performes a backgrounding by fitting a smooth curve to the entire spectra *
+*It performes a backgrounding by fitting a smooth curve to the entire spectra*
 
 USAGE
 1. Place all .spe files in a single folder
