@@ -1,8 +1,9 @@
 # F-Analysis-App
-A MATLAB app built to streamline the analysis of PIGE *.spe data collected by the Peaslee Group at UND
+A MATLAB app built to streamline the analysis of PIGE .spe data collected by the Peaslee Group at UND
+* It performes a backgrounding by fitting a smooth curve to the entire spectra *
 
 USAGE
-1. Place all *.spe files in a single folder
+1. Place all .spe files in a single folder
 2. Fill in the relevant fields above the Directory text box (if you're unsure of what to do, press "load defaults"). Note that the CHANNEL NUMBER for each peak is what is requested.
 3. Paste the full directory of your folder into the appropriate text box
 4. Press run and wait for all files to be analyzed.
