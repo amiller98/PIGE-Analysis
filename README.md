@@ -3,7 +3,7 @@ A MATLAB app built to streamline the analysis of PIGE .spe data collected by the
 *It performes a backgrounding by fitting a smooth curve to the entire spectra*
 
 USAGE
-1. Place all .spe files in a single folder
+1. Place all .spe or .n24 files in a single folder
 2. Press load defaults
 3. Paste the full directory of your folder into the appropriate text box and press enter. (NO QUOTATION MARKS WIN10 USERS)
 4. Wait for spectra to be loaded in.
