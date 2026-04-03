@@ -1,0 +1,18 @@
+# MATLAB
+*.asv
+*.m~
+*.autosave
+*.mlx.slxc
+slprj/
+sccprj/
+*.slxc
+
+# MEX / codegen
+*.mex*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
